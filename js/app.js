@@ -82,5 +82,5 @@ let Bajar = document.querySelector('#abajo');
 
 Bajar.addEventListener('click', () => {
     document.body.scrollTop = 60;
-    document.documentElement.scrollTop = 900;
+    document.documentElement.scrollTop = 740;
 })
